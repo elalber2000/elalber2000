@@ -7,6 +7,7 @@ I work across both **research** and **industry**, with a particular interest in:
 - 🧠 Neurosymbolic Constraints
 
 Currently working at **Kyndryl AI Lab** 🧪
+
 I also write at **[Parrots&Basilisks](https://parrotsbasilisks.substack.com/)** ✍️
 
 ## Contact
