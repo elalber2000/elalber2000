@@ -19,6 +19,10 @@ I also write at **[Parrots&Basilisks](https://parrotsbasilisks.substack.com/)** 
 - **[An LLM-Based Approach for Insight Generation in Data Analysis](https://arxiv.org/abs/2503.11664)** - NAACL 2025
 - **[Data Augmentation for Named Entity Recognition using Wikidata](https://dialnet.unirioja.es/servlet/articulo?codigo=8916029)** - SEPLN 2023 · [[repo]](https://github.com/oeg-upm/widaug)
 
+## Talks
+- 🕹️ **[Cómo controlar a tu modelo](https://github.com/elalber2000/talks/tree/main/como-controlar-a-tu-modelo)** [[slides]](https://github.com/elalber2000/talks/blob/main/como-controlar-a-tu-modelo/slides.pdf) [[video]](https://www.youtube.com/live/YPcQnKVfZt0?is=SScvGefCz20chS0h)  
+  (In Spanish) Talk about model control, guardrails, neurosymbolic systems, and mechanistic interpretability
+
 ## Main Projects
 - 🚫 **StopSlop** [[repo]](https://github.com/elalber2000/stop_slop) [[blog]](https://parrotsbasilisks.substack.com/p/stopslop-detecting-slop-with-a-5kb)
   Chrome extension to detect and avoid slop websites using FastText + custom features
@@ -26,5 +30,5 @@ I also write at **[Parrots&Basilisks](https://parrotsbasilisks.substack.com/)** 
 - ❄️ **MiniSnowflake** [[repo]](https://github.com/elalber2000/mini_snowflake)
   A lightweight Snowflake-style architecture built on parallel DuckDB instances
 
-- ↗️ **ProseSteering** [[repo]](https://github.com/elalber2000/prose-steering) [[blog]](https://parrotsbasilisks.substack.com/p/searching-for-high-prose-in-qwen25)
+- 🧲 **ProseSteering** [[repo]](https://github.com/elalber2000/prose-steering) [[blog]](https://parrotsbasilisks.substack.com/p/searching-for-high-prose-in-qwen25)
   A mechanistic interpretability project exploring activation steering for high-prose writing
