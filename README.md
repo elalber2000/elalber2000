@@ -24,6 +24,9 @@ I also write at **[Parrots&Basilisks](https://parrotsbasilisks.substack.com/)** 
   (In Spanish) Talk about model control, guardrails, neurosymbolic systems, and mechanistic interpretability
 
 ## Main Projects
+- 🛡️ **Asimov** [[repo]](https://github.com/elalber2000/asimov) [[blog]](https://parrotsbasilisks.substack.com/p/asimov-neurosymbolic-adversarial)
+  Neuro-symbolic adversarially generated AI axioms
+
 - 🚫 **StopSlop** [[repo]](https://github.com/elalber2000/stop_slop) [[blog]](https://parrotsbasilisks.substack.com/p/stopslop-detecting-slop-with-a-5kb)
   Chrome extension to detect and avoid slop websites using FastText + custom features
 
